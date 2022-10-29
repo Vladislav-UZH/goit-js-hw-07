@@ -12,9 +12,7 @@ body {
   color: #212121;
   line-height: 1.5;
 }
-ul {
-  list-style: none;
-}
+
 input {
   padding: 8px;
   font: inherit;
@@ -24,18 +22,3 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
-
-.image{
-  width: 350px;
-  height: 250px;
-  border-radius: 10px;
-}
-.gallery{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-
-}
-/* .item-list{
-  
-} */
